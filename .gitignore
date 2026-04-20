@@ -1,4 +1,9 @@
 .ipynb_checkpoints/
+.vscode/
 __pycache__/
 
+app/__pycache__/
+app/services/__pycache__/
+
 data/*
+test.txt

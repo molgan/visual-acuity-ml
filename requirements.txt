@@ -15,3 +15,9 @@ seaborn>=0.13
 
 # notebooks
 jupyterlab>=4.5
+
+# API
+fastapi>=0.136
+uvicorn[standard]>=0.44
+pydantic>=2.7
+requests>=2.32
