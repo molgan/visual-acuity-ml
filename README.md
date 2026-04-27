@@ -2,7 +2,7 @@
 
 🚧 **Work in progress**
 
-This project demonstrates an end-to-end machine learning workflow for estimating pre-operative visual acuity from clinical parameters. The repository covers the full lifecycle, including data preprocessing, model training, evaluation, and deployment via a FastAPI service.
+This project demonstrates an end-to-end machine learning workflow for estimating preoperative visual acuity from clinical parameters. The repository covers the full lifecycle, including data preprocessing, model training, evaluation, and deployment via a FastAPI service.
 
 The original dataset contains sensitive medical information and is not publicly available.  
 A synthetic dataset with the same schema and similar statistical properties is provided for demonstration purposes.
